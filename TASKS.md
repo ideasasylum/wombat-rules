@@ -14,7 +14,7 @@ This document outlines the step-by-step tasks to implement the JSONLogic Rules E
 - [ ] Install `json-logic-js` as runtime dependency
 - [ ] Install `@types/json-logic-js` for TypeScript types
 - [ ] Install `typescript` as dev dependency
-- [ ] Install `vitest` and `@vitest/ui` as dev dependencies
+- [ ] Install `vitest` as dev dependencies
 - [ ] Install `eslint`, `@typescript-eslint/parser`, `@typescript-eslint/eslint-plugin` as dev dependencies
 - [ ] Install `prettier` as dev dependency
 
