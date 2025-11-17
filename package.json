@@ -1,5 +1,5 @@
 {
-  "name": "wombat-rules",
+  "name": "@ideasasylum/wombat-rules",
   "version": "0.1.0",
   "description": "TypeScript wrapper around JSONLogic for evaluating business rules in Cloudflare Workers",
   "type": "module",
